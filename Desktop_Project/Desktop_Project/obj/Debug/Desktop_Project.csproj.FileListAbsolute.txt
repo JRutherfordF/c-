@@ -1,0 +1,9 @@
+E:\bepis\Desktop_Project\Desktop_Project\bin\Debug\Desktop_Project.exe.config
+E:\bepis\Desktop_Project\Desktop_Project\bin\Debug\Desktop_Project.exe
+E:\bepis\Desktop_Project\Desktop_Project\bin\Debug\Desktop_Project.pdb
+E:\bepis\Desktop_Project\Desktop_Project\obj\Debug\Desktop_Project.csprojResolveAssemblyReference.cache
+E:\bepis\Desktop_Project\Desktop_Project\obj\Debug\Desktop_Project.Properties.Resources.resources
+E:\bepis\Desktop_Project\Desktop_Project\obj\Debug\Desktop_Project.csproj.GenerateResource.Cache
+E:\bepis\Desktop_Project\Desktop_Project\obj\Debug\Desktop_Project.exe
+E:\bepis\Desktop_Project\Desktop_Project\obj\Debug\Desktop_Project.pdb
+E:\bepis\Desktop_Project\Desktop_Project\obj\Debug\Desktop_Project.Calc.resources
